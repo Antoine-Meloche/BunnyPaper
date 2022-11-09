@@ -1,0 +1,6 @@
+name: BunnyPaper
+version: '${version}'
+main: bindu.bunny.bunnypaper.BunnyPaper
+api-version: 1.19
+description: "A plugin replicating the LO server"
+depend: [ProtocolLib]
