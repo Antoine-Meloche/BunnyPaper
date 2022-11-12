@@ -5,7 +5,7 @@ Have fun with this!
 
 ## Install plugin
 
-To install this plugin you need to either build the plugin from source (instructions will be added in the coming days) or download a [release jar file](https://github.com/Antoine-Meloche/BunnyPaper/releases/latest) (first version should be added by 2022-11-12T1:00:00.000000+00:00 || 1668214800) and drag and drop it into the plugins folder of a  1.19.2 paper server.
+To install this plugin you need to either build the plugin from source (instructions will be added in the coming days) or download a [release jar file](https://github.com/Antoine-Meloche/BunnyPaper/releases/latest) and drag and drop it into the plugins folder of a  1.19.2 paper server.
 
 ## Replicating the Club Mate fountain challenge
 
